@@ -48,12 +48,12 @@ Compared spend patterns between shipping types.
 
 Calculated:
 
-Total revenue
-
-Average purchase amount
-
-Customer count
-Grouped by subscription status.
+  Total revenue
+  
+  Average purchase amount
+  
+  Customer count
+  Grouped by subscription status.
 
 6️⃣ Which products have the highest discount usage rate?
 
@@ -77,19 +77,19 @@ Aggregated revenue across predefined age buckets.
 
 🧠 Techniques Used
 
-CTEs (Common Table Expressions)
-
-Window Functions (ROW_NUMBER)
-
-Subqueries
-
-CASE WHEN Logic
+  CTEs (Common Table Expressions)
+  
+  Window Functions (ROW_NUMBER)
+  
+  Subqueries
+  
+  CASE WHEN Logic
 
 Aggregate Functions (SUM, AVG, COUNT)
 
-Filtering & Ranking
-
-Group-wise Analysis
+  Filtering & Ranking
+  
+  Group-wise Analysis
 
 📈 Key Insights Generated
 
