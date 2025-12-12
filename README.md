@@ -6,9 +6,7 @@ A SQL-based analytical project focused on understanding customer purchase behavi
 
 MySQL (CTEs, Window Functions, Aggregations)
 
-Excel / Sheets (for summary reporting)
-
-SQL Developer / Workbench
+MySQL Workbench
 
 📌 Project Overview
 
